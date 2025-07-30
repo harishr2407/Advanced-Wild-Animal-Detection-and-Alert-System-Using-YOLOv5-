@@ -1,5 +1,5 @@
 # Advanced-Wild-Animal-Detection-and-Alert-System-Using-YOLOv5-
-# 🐾 Advanced Wild Animal Detection and Alert System Using YOLOv5
+
 
 An intelligent real-time wild animal detection and alerting system using YOLOv5, integrated with Streamlit, OpenCV, sound alarms, email notifications, and location tracking. Designed to prevent human-wildlife conflict and safeguard agricultural and residential zones near forest areas.
 
