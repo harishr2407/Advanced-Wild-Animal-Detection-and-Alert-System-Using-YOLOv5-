@@ -1,0 +1,4 @@
+opencv-python
+yolov5
+
+run the project - streamlit run animal.py
